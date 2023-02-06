@@ -10,6 +10,7 @@ matplotlib = "*"
 scikit-learn = "*"
 opencv-contrib-python = "*"
 dlib = "*"
+face-recognition = "*"
 
 [dev-packages]
 ipykernel = "*"
